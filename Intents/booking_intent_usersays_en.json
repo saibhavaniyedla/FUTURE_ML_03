@@ -1,0 +1,60 @@
+[
+  {
+    "id": "e40d2ef1-92e8-46e7-a309-847db4de57ee",
+    "data": [
+      {
+        "text": "book me a table ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65c676ab-43cc-48a2-a22a-c0c155cc70a9",
+    "data": [
+      {
+        "text": "please book me a table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a24d3d0-278d-4fe9-b104-24f533ffe2f2",
+    "data": [
+      {
+        "text": "reserve a table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6e33fd0-96fc-411c-84b3-234d30bb1632",
+    "data": [
+      {
+        "text": "book a table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

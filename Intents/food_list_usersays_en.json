@@ -1,0 +1,34 @@
+[
+  {
+    "id": "c4b545ad-974a-4270-b91a-e8e9f06ac778",
+    "data": [
+      {
+        "text": "i want food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f53be53-ea3e-4203-bbd8-86879ce67341",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "rice",
+        "meta": "@food",
+        "alias": "food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,6 +1,6 @@
 {
-  "id": "202df5db-d895-4c7b-9e1b-b10cd3a2c4c8",
-  "name": "food_list",
+  "id": "4759f9e2-ae52-4aa9-a05b-df6766c8baba",
+  "name": "order_food",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -10,31 +10,14 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "371c46e1-045c-4962-b54a-3af94c593096",
-          "name": "food",
-          "required": true,
-          "dataType": "@food",
-          "value": "$food",
+          "id": "df02b775-ba91-417a-a024-a5a9c5307c5d",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
           "defaultValue": "",
           "isList": false,
-          "prompts": [
-            {
-              "lang": "en",
-              "value": "please tell me what do you want"
-            },
-            {
-              "lang": "en",
-              "value": "ok"
-            },
-            {
-              "lang": "en",
-              "value": "i will get what you will like to eat more/"
-            },
-            {
-              "lang": "en",
-              "value": "ok sir"
-            }
-          ],
+          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -48,8 +31,9 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "ok it will ready in few minutes",
-            "i will bring for you the $food.original"
+            "ok",
+            "i will get the order",
+            "ho ok"
           ],
           "condition": ""
         }
