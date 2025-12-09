@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Rice",
+    "synonyms": [
+      "Rice"
+    ]
+  },
+  {
+    "value": "Biryani",
+    "synonyms": [
+      "Biryani"
+    ]
+  },
+  {
+    "value": "fish",
+    "synonyms": [
+      "fish"
+    ]
+  },
+  {
+    "value": "veggies",
+    "synonyms": [
+      "veggies"
+    ]
+  },
+  {
+    "value": "chicken curry",
+    "synonyms": [
+      "chicken curry"
+    ]
+  }
+]
